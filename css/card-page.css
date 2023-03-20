@@ -1,0 +1,176 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@400;500;700;900&display=swap');
+
+/* body  */
+
+body{
+font-family: 'Roboto', sans-serif;
+}
+
+/* header  */
+.header-style{
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 20px;
+    line-height: 23px;
+    color: #000000;
+    margin-top: 50px;
+    margin-bottom: 25px;
+    margin-left: 63px;
+}
+
+/* card  */
+
+.card-design {
+    width: 636px;
+    height: 300px;
+    background: #F9FCFF;
+    box-shadow: 0px 8px 24px rgba(0, 0, 0, 0.1);
+    border-radius: 16px;
+    margin-left: 58px;
+    padding-right: 23px;
+}
+
+.bottom-card {
+    margin-bottom: 16px;
+    margin-top: 32px;
+}
+
+.line-one{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+    list-style-type: none;   
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+
+}
+#number{
+    color: #0D307E;
+}
+.three{
+  margin-left: 211px;
+}
+.three-design{
+    display: flex;
+    justify-content: center;
+    width: 180px;
+}
+
+#button-three-left{
+    width: 84px;
+    height: 29px;
+    background: #FFFFFF;
+    border-width: 1px 0px 1px 1px;
+    border-style: solid;
+    border-color: #000000;
+    border-radius: 6px 0px 0px 6px;
+    justify-content: center;
+}
+
+
+#button-three-right{
+box-sizing: border-box;
+width: 84px;
+height: 29px;
+background: #0D307E;
+border: 1px solid #000000;
+border-radius: 0px 6px 6px 0px;
+}
+#button-three-right-text{
+    width: 53px;
+    height: 16px;
+    padding-top: 6px;
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 14px;
+    line-height: 16px;
+    color: #FFFFFF;
+}
+
+.four{
+    margin-bottom: 42px;
+}
+.list-type{
+    width: 31px;
+    height: 29px;
+    margin-bottom: 42px;
+   
+}
+
+#l-type{
+background: #C1392A;;
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 19px;
+    text-align: center;
+    color: #FFFFFF;
+    width: 31px;
+    height: 29px;
+padding: 5px;
+}
+
+#w-type {
+    background: #5CB85C;
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 19px;
+    text-align: center;
+    color: #FFFFFF;
+width: 31px;
+height: 29px;
+padding: 5px;
+}
+
+#d-type {
+    background: #FFB60F;;
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 19px;
+    text-align: center;
+    color: #FFFFFF;
+    width: 31px;
+    height: 29px;
+    padding: 5px;
+
+}
+
+.team-type{
+    width: 46px;
+    height: 38px;
+    left: 370px;
+    top: 318px;
+    
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 19px;
+    text-align: center;
+    
+    color: #000000;
+}
+/* pagination */
+.pagination-style{
+    width: 1284px;
+    height: 55px;
+    margin-left: 58px;
+    background: #E1E7ED;
+    border-radius: 8px;
+}
+.pagination{
+ margin-left: 506px;
+ padding-top: 10px;
+}
+.page-number{
+    margin-right: 10px;
+}
