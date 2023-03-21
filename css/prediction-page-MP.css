@@ -1,0 +1,200 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@400;500;700;900&display=swap');
+
+/* body  */
+
+body {
+    font-family: 'Roboto', sans-serif;
+}
+
+/* header  */
+.header-style {
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 20px;
+    line-height: 23px;
+    color: #000000;
+    margin-top: 50px;
+    margin-bottom: 25px;
+    margin-left: 63px;
+}
+
+/* box  */
+
+.box{
+    box-sizing: border-box;
+    width: 1284px;
+    height: 882px;
+    background: #FFFFFF;
+    border: 1px solid #0D307E;
+    border-radius: 16px;
+    margin-left: 63px;
+    margin-bottom: 152px;
+}
+
+.prediction-button{
+    width: 304px;
+    height: 66px;
+    margin-left: 490px;
+    margin-top: 39px;
+    background: #0D307E;
+    border-radius: 94px;
+}
+.prediction-button p {
+
+    width: 126px;
+    height: 23px;
+    margin-left: 89px;
+    margin-top: 21px;
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 20px;
+    line-height: 23px;
+    color: #FFFFFF;
+}  
+
+.list-one, 
+.list-two,
+.list-three{
+    margin-top: 26px;
+    list-style-type: none;
+    display: flex;
+    justify-content: space-around;
+}
+
+.odd-match{
+    box-sizing: border-box;
+    width: 1140px;
+    height: 62px;
+    margin-left: 72px;
+    background: #F4F7FD;
+    border: 1px solid #F4F7FD;
+    border-radius: 10px 10px 0px 0px;
+}
+  
+
+.line-one {
+    margin-top: 20px;
+    display: flex;
+    flex-wrap: wrap;
+    /* justify-content: space-between; */
+    list-style-type: none;
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+}
+/* .four {
+    margin-bottom: 42px;
+} */
+
+.list-type {
+    width: 31px;
+    height: 29px;
+    margin-right: 8px;
+    margin-left: 152px;
+    /* margin-bottom: 42px; */
+
+}
+
+#l-type {
+    background: #C1392A;
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 19px;
+    text-align: center;
+    color: #FFFFFF;
+    width: 31px;
+    height: 29px;
+    padding: 5px;
+        margin-right: 8px;
+}
+
+#w-type {
+    background: #5CB85C;
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 19px;
+    text-align: center;
+    color: #FFFFFF;
+    width: 31px;
+    height: 29px;
+    padding: 5px;
+        margin-right: 8px;
+}
+
+#d-type {
+    background: #FFB60F;
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 19px;
+    text-align: center;
+    color: #FFFFFF;
+    width: 31px;
+    height: 29px;
+    padding: 5px;
+    margin-right: 8px;
+
+}
+
+.second-list{
+    margin-left: 500px;
+}
+
+.bootstrap-tabs{
+    margin-left:72px;
+    margin-top: 52px;
+}
+
+.tab-button-one{
+    background-color: #FFB60F !important;
+    margin-right: 10px;
+}
+.tab-button-two{
+    background: #c8c8c8  !important;
+    margin-right: 10px;
+
+}
+.border-hr{
+    margin-left:72px;
+    width: 1140px;
+    height: 0px;
+    border: 4px solid #0D307E;
+}
+
+.tab-details{
+    margin-left: 96px;
+}
+    /* Arsenal vs Manchester United Prediction & Match Preview */
+.tabs-header{
+
+    width: 383px;
+    height: 66px;
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 28px;
+    line-height: 33px;
+    color: #000000;
+}
+/* League: SPANISH LALIGA Date: Sun, 15th May, 2022 Venue: Estadio Nuevo Mirandilla. */
+.tabs-para{
+   
+    width: 234px;
+    height: 65px;
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    color: #000000;
+    margin-bottom: 32px;
+}
+    
+   
