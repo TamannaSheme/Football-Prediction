@@ -198,6 +198,39 @@ body {
     margin-bottom: 32px;
 }
 
+.h2h-button-one{
+    width: 558px;
+    height: 45px;
+    /* margin-left: 32px !important; */
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 19px;
+    color: rgba(0, 0, 0, 0.9);
+    background: #ECECEC;
+}
+.flex-button{
+    display: flex;
+    flex-wrap: wrap;
+}
+.left-side{
+
+}
+.time{
+    margin-left: 24px !important;
+}
+
+.team1{
+    margin-left: 130px;
+}
+
+.point{
+    margin-left: 24px;
+}
+.team2{
+    margin-left: 24px;
+}
 .tabs-button-one{
     width: 1140px;
     height: 45px;
