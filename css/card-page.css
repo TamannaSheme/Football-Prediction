@@ -174,3 +174,10 @@ padding: 5px;
 .page-number{
     margin-right: 10px;
 }
+
+/* Small devices (landscape phones, less than 768px)
+@media (max-width: 767.98px) {
+    .card {
+        display: block;
+    }
+} */
