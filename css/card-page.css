@@ -161,14 +161,14 @@ padding: 5px;
 }
 /* pagination */
 .pagination-style{
-    width: 1284px;
+    max-width: 1284px;
     height: 55px;
     margin-left: 58px;
     background: #E1E7ED;
     border-radius: 8px;
 }
 .pagination{
- margin-left: 506px;
+ align-items: center;
  padding-top: 10px;
 }
 .page-number{
