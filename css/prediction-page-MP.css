@@ -21,10 +21,10 @@ body {
 
 /* box  */
 
-.box{
+.container{
 
     box-sizing: border-box;
-    width: 1284px; 
+    /* width: 1284px;  */
     height: auto;
     background: #FFFFFF;
     border: 1px solid #0D307E;
@@ -37,7 +37,7 @@ body {
 .prediction-button{
     max-width: 304px;
     height: 66px;
-    margin-left: 490px;
+    /* margin-left: 490px; */
     margin-top: 39px;
     background: #0D307E;
     border-radius: 94px;
@@ -46,7 +46,7 @@ body {
 
     width: 126px;
     height: 23px;
-    margin-left: 89px;
+    /* margin-left: 89px; */
     margin-top: 21px;
     font-family: 'Roboto';
     font-style: normal;
@@ -67,12 +67,13 @@ body {
 
 .odd-match{
     box-sizing: border-box;
-    width: 1140px;
+    max-width: 1140px;
     height: 62px;
     margin-left: 72px;
     background: #F4F7FD;
     border: 1px solid #F4F7FD;
     border-radius: 10px 10px 0px 0px;
+    color: black;
 }
   
 
@@ -87,15 +88,13 @@ body {
     font-weight: 400;
     font-size: 16px;
 }
-/* .four {
-    margin-bottom: 42px;
-} */
+
 
 .list-type {
     width: 31px;
     height: 29px;
-    margin-right: 8px;
-    margin-left: 152px;
+    /* margin-right: 8px; */
+     margin-left: 12px;
     /* margin-bottom: 42px; */
 
 }
@@ -112,7 +111,7 @@ body {
     width: 31px;
     height: 29px;
     padding: 5px;
-        margin-right: 8px;
+    margin-right: 8px;
 }
 
 #w-type {
@@ -151,28 +150,28 @@ body {
 }
 
 .bootstrap-tabs{
-    margin-left:72px;
+    /* margin-left:72px; */
     margin-top: 52px;
 }
 
 .tab-button-one{
     background-color: #FFB60F !important;
-    margin-right: 10px;
+    /* margin-right: 10px; */
 }
 .tab-button-two{
     background: #c8c8c8  !important;
-    margin-right: 10px;
+    /* margin-right: 10px; */
 
 }
 .border-hr{
-    margin-left:72px;
-    width: 1140px;
+    /* margin-left:72px; */
+    max-width: 1140px;
     height: 0px;
     border: 4px solid #0D307E;
 }
 
 .tab-details{
-    margin-left: 96px;
+    /* margin-left: 96px; */
 }
     /* Arsenal vs Manchester United Prediction & Match Preview */
 .tabs-header{
@@ -182,7 +181,7 @@ body {
     font-family: 'Roboto';
     font-style: normal;
     font-weight: 500;
-    font-size: 28px;
+    font-size: 20px;
     line-height: 33px;
     color: #000000;
 }
@@ -194,7 +193,7 @@ body {
     font-family: 'Roboto';
     font-style: normal;
     font-weight: 400;
-    font-size: 16px;
+    font-size: 12px;
     color: #000000;
     margin-bottom: 32px;
 }
@@ -264,9 +263,9 @@ body {
     padding-left:20px !important;
 }
 .team-number{
-    padding-left: 700px  !important;
+    /* padding-left: 700px  !important; */
     margin-right: 26px !important;
 }
 .team-number1{
-    margin-right: 26px !important;
+    /* margin-right: 26px !important; */
 }
