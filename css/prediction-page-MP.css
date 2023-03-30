@@ -22,9 +22,9 @@ body {
 /* box  */
 
 .box{
-    display: grid;
+
     box-sizing: border-box;
-    width: 1284px;
+    width: 1284px; 
     height: auto;
     background: #FFFFFF;
     border: 1px solid #0D307E;
@@ -35,7 +35,7 @@ body {
 }
 
 .prediction-button{
-    width: 304px;
+    max-width: 304px;
     height: 66px;
     margin-left: 490px;
     margin-top: 39px;
@@ -61,8 +61,8 @@ body {
 .list-three{
     margin-top: 26px;
     list-style-type: none;
-    display: flex;
-    justify-content: space-around;
+    /* display: flex;
+    justify-content: space-around; */
 }
 
 .odd-match{
