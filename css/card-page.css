@@ -22,13 +22,13 @@ font-family: 'Roboto', sans-serif;
 /* card  */
 
 .card-design {
-    width: 580px;
+    max-width: 550px; 
     height: 300px;
     background: #F9FCFF;
     box-shadow: 0px 8px 24px rgba(0, 0, 0, 0.1);
     border-radius: 16px;
     /* margin-left: 46px; */
-    padding-right: 23px;
+    padding-right: 20px;
 }
 
 .bottom-card {
@@ -37,22 +37,18 @@ font-family: 'Roboto', sans-serif;
 }
 
 .line-one{
-    display: flex;
-    flex-wrap: wrap;
-    justify-content: space-between;
+  display: flex;
     list-style-type: none;   
     font-family: 'Roboto';
     font-style: normal;
     font-weight: 400;
-    font-size: 16px;
+    font-size: 14px;
 
 }
 #number{
     color: #0D307E;
 }
-.three{
-  margin-left: 211px;
-}
+
 .three-design{
     display: flex;
     justify-content: center;
@@ -87,17 +83,17 @@ border-radius: 0px 6px 6px 0px;
     font-style: normal;
     font-weight: 600;
     font-size: 14px;
-    line-height: 16px;
+    /* line-height: 16px; */
     color: #FFFFFF;
 }
 
-.four{
+/* .four{
     margin-bottom: 42px;
-}
+} */
 .list-type{
     max-width: 31px;
     height: 29px;
-    margin-bottom: 42px;
+    /* margin-bottom: 42px; */
    
 }
 
@@ -110,7 +106,7 @@ background: #C1392A;;
     line-height: 19px;
     text-align: center;
     color: #FFFFFF;
-    width: 31px;
+    max-width: 31px;
     height: 29px;
 padding: 5px;
 }
@@ -124,7 +120,7 @@ padding: 5px;
     line-height: 19px;
     text-align: center;
     color: #FFFFFF;
-width: 31px;
+max-width: 31px;
 height: 29px;
 padding: 5px;
 }
@@ -138,7 +134,7 @@ padding: 5px;
     line-height: 19px;
     text-align: center;
     color: #FFFFFF;
-    width: 31px;
+max-width: 31px;
     height: 29px;
     padding: 5px;
 
@@ -149,7 +145,6 @@ padding: 5px;
     height: 38px;
     left: 370px;
     top: 318px;
-    
     font-family: 'Roboto';
     font-style: normal;
     font-weight: 400;
