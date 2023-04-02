@@ -7,6 +7,8 @@ https://www.figma.com/file/Gsci1coB9RzBNvSPPQbhrO/Football-Prediction?node-id=0-
 
 <br>
 
-Live Link:
-https://tamannasheme.github.io/Football-Prediction/
+Card-Page Link:
+https://tamannasheme.github.io/Football-Prediction/card-page.html
 
+Prediction Page Link:
+https://tamannasheme.github.io/Football-Prediction/prediction-page-MP.html
